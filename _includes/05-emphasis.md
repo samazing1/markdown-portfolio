@@ -1,5 +1,7 @@
-1. Item 1
-2. Item 2
-3. Item 3
-   1. Item 3a
-   2. Item 3b
+*Samazing*
+_Welcoes you!_
+
+**Samuel**
+__Is getting used to this__
+
+_**Stylish, i know**_
